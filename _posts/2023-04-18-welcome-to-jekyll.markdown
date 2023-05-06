@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Building Game Engines Final Project"
+title:  "Welcome to Jekyll"
 date:   2023-04-18 11:41:19 -0400
 categories: jekyll update
 ---
-
-This is a placeholder for a post on my final project for CS5850 Building Game Engines.
 
 Jekyll requires blog post files to be named according to the following format:
 
